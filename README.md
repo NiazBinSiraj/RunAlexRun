@@ -16,6 +16,10 @@ who are more powerful and more stronger than the normal smaller monsters. </br>
 -> Running speed increases to a specific speed. </br>
 
 
+<b> Flow Chart: </b> </br>
+![Untitled Diagram](https://user-images.githubusercontent.com/37168861/54704124-5f592000-4b64-11e9-87bb-3207001ae7c6.jpg)
+
+
 <b>How its played:</b> Jump button to jump. Fire button to fire a magic ball. One point for killing a normal enemy. Two magic balls to kill a big enemy. Killing a big enemy rewards two points. Rescuing a princess rewards two points. To rescue a princess the player has to just touch the princess. </br>
 
 
